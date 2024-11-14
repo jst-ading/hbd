@@ -226,7 +226,7 @@ body {
 }
 
 /* Media Queries */
-@media screen and (max-height: 1500px) {
+@media screen and (max-height: 2500px) {
   .six .hat {
     left: 43%;
   }
