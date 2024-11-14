@@ -226,31 +226,31 @@ body {
 }
 
 /* Media Queries */
-@media screen and (max-height: 1000px) {
+@media screen and (max-height: 3000px) {
   .six .hat {
     left: 40%;
   }
 }
 
-@media screen and (max-height: 800px) {
+@media screen and (max-height: 3000px) {
   .six .hat {
-    left: 37%;
+    left: 40%;
   }
 }
 
-@media screen and (max-height: 700px) {
+@media screen and (max-height: 3000px) {
   .six .hat {
-    left: 32%;
+    left: 40%;
   }
 }
 
-@media screen and (max-height: 850px) and (max-width: 450px) {
+@media screen and (max-height: 3000px) and (max-width: 3000px) {
   .six .hat {
-    left: 32%;
+    left: 40%;
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 3000px) {
   .container {
     width: 90%;
   }
